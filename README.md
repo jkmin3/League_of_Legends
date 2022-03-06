@@ -1,4 +1,4 @@
-# League_of_Legends
+# League of Legends
 
 ## If you do not know what Leauge of Legends is
 
