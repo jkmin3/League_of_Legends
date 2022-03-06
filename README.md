@@ -6,4 +6,6 @@ League of Legends is a team-based strategy game where two teams that consist of 
 
 ### Logistic Regression
 
-I used logistic regression with scikit-learn to predict the outcome of league games with a model that was 73 % accurate. Feel free to use my code and the dataset!
+I used logistic regression with scikit-learn to predict the outcome of league games with a model that was 73 % accurate. 
+
+Feel free to use my code and the dataset!
